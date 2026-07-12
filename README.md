@@ -1016,7 +1016,8 @@ fabrik-frontend
 
 > **Screenshot 14:** Terminal showing the `.deb` installation and the application launching from `/usr/bin/fabrik-frontend`.
 >
-> `[insert screenshot]`
+> `[insert screenshot]`<img width="507" height="305" alt="Screenshot 14 vrai" src="https://github.com/user-attachments/assets/ee4df61c-dc20-4396-a6e4-6b62b1b755d6" />
+
 
 
 ---
